@@ -195,7 +195,7 @@ flutter run
 
 # Build commands
 flutter build apk --release
-flutter build ipa --release
+flutter build ios --release
 ```
 
 ### API Endpoints
