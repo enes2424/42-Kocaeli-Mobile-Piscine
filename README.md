@@ -84,7 +84,7 @@ Scaffold
 - **Centered Layout**: Cross-axis alignment
 - **Scrollable Views**: Overflow protection
 
-## 🔧 Kurulum (Module 01)
+## 🔧 Kurulum ve Çalıştırma
 
 ### Flutter SDK Kurulumu
 ```bash
