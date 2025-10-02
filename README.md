@@ -3,7 +3,7 @@
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin üçüncü modülüdür. Bu modül, HTTP istekleri, API entegrasyonu, GPS konum servisleri, gelişmiş arama fonksiyonları ve asenkron programming konularını derinlemesine işler. Gerçek zamanlı veri yönetimi, error handling ve permission management becerilerini geliştirir.
 
-## � Medium Weather App Projesi
+## 🌤️ Medium Weather App Projesi
 
 ### medium_weather_app - Gelişmiş Hava Durumu Uygulaması
 **Dosya:** `mobileModule02/medium_weather_app/lib/main.dart`
