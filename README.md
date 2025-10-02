@@ -3,7 +3,7 @@
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin ilk modülüdür. Flutter framework'ü ile mobile uygulama geliştirme, Dart programlama dili temelleri, widget sistemi ve kullanıcı arayüzü tasarımı becerilerini geliştirmek için tasarlanmıştır.
 
-## 💻 Egzersizler
+## 📚 Egzersizler
 
 ### ex00 - Temel Flutter Uygulaması
 **Dosya:** `mobileModule00/ex00/lib/main.dart`
