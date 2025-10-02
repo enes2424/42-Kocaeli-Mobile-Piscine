@@ -114,8 +114,8 @@ flutter pub run flutter_launcher_icons:main
 flutter run
 
 # Build commands
-flutter build apk
-flutter build ios
+flutter build apk --release
+flutter build ios --release
 ```
 
 ### Assets Yönetimi
