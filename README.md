@@ -115,7 +115,7 @@ flutter run
 
 # Build commands
 flutter build apk
-flutter build ipa
+flutter build ios
 ```
 
 ### Assets Yönetimi
