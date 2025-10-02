@@ -1,0 +1,41 @@
+name: advanced_weather_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.4
+  geolocator: ^14.0.1
+  diacritic: ^0.1.6
+  fl_chart: ^1.0.0
+  http: ^1.4.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "assets/icon/weather.png"
+  image_path: "assets/icon/weather.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon/weather.png
+    - assets/images/background.jpg
