@@ -1,7 +1,7 @@
 # 42-Kocaeli-Mobile-Piscine
 ## Mobile Module 01 - İleri UI ve Navigation
 
-Bu modül, Flutter'da daha karmaşık UI bileşenleri, navigation sistemi, tab yönetimi ve responsive design konularını derinlemesine işler. TabBar, TextField, lifecycle yönetimi ve adaptive UI geliştirme becerilerini geliştirir.
+Bu proje, 42 Okulu Mobile Piscine eğitiminin ikinci modülüdür. Bu modül, Flutter'da daha karmaşık UI bileşenleri, navigation sistemi, tab yönetimi ve responsive design konularını derinlemesine işler. TabBar, TextField, lifecycle yönetimi ve adaptive UI geliştirme becerilerini geliştirir.
 
 ## 🌤️ Weather App Projesi
 
