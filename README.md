@@ -95,8 +95,8 @@ flutter pub get
 flutter run
 
 # Release build
-flutter build apk
-flutter build ios
+flutter build apk --release
+flutter build ios --release
 ```
 
 ### VS Code Konfigürasyonu
