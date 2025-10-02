@@ -241,7 +241,7 @@ flutter run
 
 # Build commands (chart performansı için release mode önerilir)
 flutter build apk --release
-flutter build ipa --release
+flutter build ios --release
 ```
 
 ### Chart Performance Tips
