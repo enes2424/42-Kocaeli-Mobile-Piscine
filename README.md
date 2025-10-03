@@ -7,7 +7,7 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Project Name                      | Project Status                            |
+| Proje Adı                         | Proje Durumu                              |
 | :-:                               | :-:                                       |
 | [mobile00][mobile00_tree]         | [![mobile00_badge]][mobile00_tree]        |
 | [mobile01][mobile01_tree]         | [![mobile01_badge]][mobile01_tree]        | 
