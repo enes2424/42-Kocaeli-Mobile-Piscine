@@ -1,4 +1,4 @@
-# 42-Kocaeli-Mobile-Piscine
+# 42 Kocaeli Mobile Piscine
 ## Mobile Module 02 - API Entegrasyonu ve Gelişmiş State Yönetimi
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin üçüncü modülüdür. Bu modül, HTTP istekleri, API entegrasyonu, GPS konum servisleri, gelişmiş arama fonksiyonları ve asenkron programming konularını derinlemesine işler. Gerçek zamanlı veri yönetimi, error handling ve permission management becerilerini geliştirir.
