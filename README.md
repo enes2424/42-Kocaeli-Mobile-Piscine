@@ -1,4 +1,4 @@
-# 42-Kocaeli-Mobile-Piscine
+# 42 Kocaeli Mobile Piscine
 ## Mobile Module 00 - Flutter Temelleri ve UI Geliştirme
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin ilk modülüdür. Flutter framework'ü ile mobile uygulama geliştirme, Dart programlama dili temelleri, widget sistemi ve kullanıcı arayüzü tasarımı becerilerini geliştirmek için tasarlanmıştır.
