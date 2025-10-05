@@ -1,4 +1,4 @@
-# 42-Kocaeli-Mobile-Piscine
+# 42 Kocaeli Mobile Piscine
 ## Mobile Module 04 - State Management ve Backend Integration
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin beşinci modülüdür. Bu modül, modern state management patterns, backend integration, authentication systems ve production-level app architecture konularını derinlemesine işler. Riverpod state management, Supabase backend integration, OAuth authentication ve Go Router navigation becerilerini geliştirir.
