@@ -1,4 +1,4 @@
-# 42-Kocaeli-Mobile-Piscine
+# 42 Kocaeli Mobile Piscine
 ## Mobile Module 05 - Advanced UI Components ve Calendar Integration
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin altıncı modülüdür. Bu modül, advanced UI patterns, calendar integration, complex navigation systems ve enhanced user experience konularını derinlemesine işler. Table Calendar library kullanımı, Shell Route navigation, Bottom Navigation Bar ve advanced diary management becerilerini geliştirir.
