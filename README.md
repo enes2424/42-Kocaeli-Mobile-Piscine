@@ -1,4 +1,4 @@
-# 42-Kocaeli-Mobile-Piscine
+# 42 Kocaeli Mobile Piscine
 ## Mobile Module 03 - Data Visualization ve Advanced UI
 
 Bu proje, 42 Okulu Mobile Piscine eğitiminin dördüncü modülüdür. Bu modül, chart ve graph entegrasyonu, gelişmiş data visualization, custom widget development ve performans optimizasyonu konularını derinlemesine işler. FL Chart library kullanımı, interactive graphics ve advanced UI animation becerilerini geliştirir.
