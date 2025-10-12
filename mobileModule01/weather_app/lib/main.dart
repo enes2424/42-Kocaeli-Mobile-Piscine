@@ -43,8 +43,7 @@ class _MyHomePageState extends State<MyHomePage>
 
   void _click() {
     setState(() {
-      _search = _searchController.text;
-      _searchController.text = "";
+      _search = "Geolocation";
     });
   }
 
@@ -129,3 +128,4 @@ class _MyHomePageState extends State<MyHomePage>
     );
   }
 }
+
