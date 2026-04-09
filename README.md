@@ -7,14 +7,14 @@
 <tr style="display:flex; justify-content:space-around; paddind:0;">
 <td style="padding:0; margin:0;">
 
-| Proje Adı                         | Proje Durumu                              |
-| :-:                               | :-:                                       |
-| [mobile00][mobile00_tree]         | [![mobile00_badge]][mobile00_tree]        |
-| [mobile01][mobile01_tree]         | [![mobile01_badge]][mobile01_tree]        | 
-| [mobile02][mobile02_tree]         | [![mobile02_badge]][mobile02_tree]        | 
-| [mobile03][mobile03_tree]         | [![mobile03_badge]][mobile03_tree]        | 
-| [mobile04][mobile04_tree]         | [![mobile04_badge]][mobile04_tree]        | 
-| [mobile05][mobile05_tree]         | [![mobile05_badge]][mobile05_tree]        | 
+|         Proje Adı         |            Proje Durumu            |
+| :-----------------------: | :--------------------------------: |
+| [mobile00][mobile00_tree] | [![mobile00_badge]][mobile00_tree] |
+| [mobile01][mobile01_tree] | [![mobile01_badge]][mobile01_tree] |
+| [mobile02][mobile02_tree] | [![mobile02_badge]][mobile02_tree] |
+| [mobile03][mobile03_tree] | [![mobile03_badge]][mobile03_tree] |
+| [mobile04][mobile04_tree] | [![mobile04_badge]][mobile04_tree] |
+| [mobile05][mobile05_tree] | [![mobile05_badge]][mobile05_tree] |
 
 </td></tr>
 
